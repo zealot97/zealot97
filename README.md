@@ -40,8 +40,6 @@ I am an avid believer of a balanced and natural lifestyle.
 
 #### Connect with me
 
-<div styles="display: flex; flex-direction: row; align-items: center;"/>
-
 [<img align="left" alt="www.everrover.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]([website])
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]([twitter])
@@ -49,11 +47,9 @@ I am an avid believer of a balanced and natural lifestyle.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]([instagram-1])
-</div>
 
 #### Languages, tools and technologies I work with
 
-<div styles="display: flex; flex-direction: row; align-items: center;">
   <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
   <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -83,7 +79,6 @@ I am an avid believer of a balanced and natural lifestyle.
   <img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
   <img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-</div>
 
 [website]: https://www.everrover.com
 [twitter]: https://www.twitter.com/everrover
