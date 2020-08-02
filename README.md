@@ -1,4 +1,4 @@
-Hi there 👋, ___Abhishek Deyol__ here a.k.a. __zealot97__ and actually __[_everrover_]([website])__
+<!-- Hi there 👋, ___Abhishek Deyol__ here a.k.a. __zealot97__ and actually __[_everrover_]([website])__
 
 <!--
 **zealot97/zealot97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 What to know about me? Well, I am a software developer in a beautiful planet called Earth 🌏. In some country in this emoji. 😁. I am keen on developing and using my skills in web based software development for betterment of Earth and everyone in them. I love building algorithms, systems and improving upon them.
 
 - I’m currently working on
   - Improving my proficiency in systems design, algorithms and data structures
   - Project to upload ⬆️and fetch ⬇️multiple types of files and view them
 - 🌱 I’m currently learning about web security, it's effects on the web and threat prevention in web systems
-- 👯 I’m looking to collaborate on a project
+- 👯 I’m looking to collaborate on a project -->
 
 ---
 <!--
@@ -32,7 +32,7 @@ I am also interested in artificial intelligence systems, robotics and AR applica
 
 <!-- --- -->
 
-#### Let's make our lives natural🌱 and easier
+<!-- #### Let's make our lives natural🌱 and easier
 
 I am an avid believer of a balanced and natural lifestyle.
 
@@ -84,4 +84,4 @@ I am an avid believer of a balanced and natural lifestyle.
 [twitter]: https://www.twitter.com/everrover
 [instagram-1]: https://instagram.com/zealot97
 [instagram-2]: https://instagram.com/everrover
-[linkedin]: https://www.linkedin.com/in/abhishek-deyol-44a732171/
+[linkedin]: https://www.linkedin.com/in/abhishek-deyol-44a732171/ -->
