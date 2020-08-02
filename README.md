@@ -23,7 +23,6 @@ What to know about me? Well, I am a software developer in a beautiful planet cal
 - 🌱 I’m currently learning about web security, it's effects on the web and threat prevention in web systems
 - 👯 I’m looking to collaborate on a project -->
 
----
 <!--
 I am also interested in artificial intelligence systems, robotics and AR applications. But since I can;t focus on all things simultaneously. I'll pursue them in my future. In that order.
 -->
