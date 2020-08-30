@@ -1,4 +1,4 @@
-Hi there 👋, ___Abhishek Deyol__ here a.k.a. __zealot97__ and actually __[_everrover_]([website])__
+Hi there 👋, __zealot97__ a.k.a. __[_everrover_]([website])__
 
 <!--
 **zealot97/zealot97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
